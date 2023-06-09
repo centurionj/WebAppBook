@@ -1,0 +1,26 @@
+header h1 {
+    font-size: 40pt;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+img{
+    width: 90px;
+    float: left;
+}
+
+nav {
+    font-size: 16pt;
+    width: 150px;
+    float: left;
+}
+
+nav a {
+    display: block;
+    margin: 10px 0px;
+}
+
+section {
+    margin-left: 170px;
+}
